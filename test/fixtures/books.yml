@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  author_id: 1
+  average_rating: 1
+  isbn: MyString
+  isn13: MyString
+  num_page: 1
+  ratings_count: 1
+  text_review_count: 1
+  publication: 2021-04-14
+  publisher_id: 1
+
+two:
+  title: MyString
+  author_id: 1
+  average_rating: 1
+  isbn: MyString
+  isn13: MyString
+  num_page: 1
+  ratings_count: 1
+  text_review_count: 1
+  publication: 2021-04-14
+  publisher_id: 1
